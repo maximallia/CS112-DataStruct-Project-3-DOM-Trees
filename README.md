@@ -1,4 +1,4 @@
-# CS112-Project-3-DOM-Tress
+# CS112-Project-3-DOM-Trees
 
 Summary
 
